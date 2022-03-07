@@ -1,8 +1,8 @@
-﻿# Intro
+# Intro
 I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
-# [We Are Follow this cheatsheet]
+# [We Are Follow this cheatsheet](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 
 **DBMS & SQL NOTES**
 
