@@ -1,4 +1,10 @@
-﻿**DBMS & SQL NOTES**
+﻿# Intro
+I am **Subham Maity**
+I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
+## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
+# [We Are Follow this cheatsheet]
+
+**DBMS & SQL NOTES**
 
 **Database:** A database is a collection of related data which represents some aspect of the real world. A database system is designed to be built and populated with data for a certain task.
 
